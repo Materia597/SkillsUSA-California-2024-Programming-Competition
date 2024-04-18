@@ -10,6 +10,6 @@
   "author": "Seth Browning",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^29.2.0"
+    "electron": "^29.3.1"
   }
 }
